@@ -33,7 +33,7 @@ On most Linux distributions _curl_ is installed by default. By default _jq_ is n
 
 *Arch*
 
-`sudo pacman <install> curl jq`
+`sudo pacman -S curl jq`
 
 
 Installation
