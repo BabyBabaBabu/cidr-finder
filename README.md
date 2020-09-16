@@ -3,7 +3,7 @@ cidr-finder
 
 ## Overview 
 
-A command line to retrieve CIDR info of a target during security engagements
+A command line tool to retrieve CIDR info of a target during security engagements
 
 ## What is **cidr-finder** ?
 
