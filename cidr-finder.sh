@@ -8,6 +8,7 @@ SANITIZER=""
 # Full path to current script
 THIS=`readlink -f "${BASH_SOURCE[0]}" 2>/dev/null||echo $0`
 # The directory where script resides
+DIR=`dirname "${THIS}"`
 # The directory where to store results
 mkdir -p $DIR/results/
 RES=$DIR/results/
